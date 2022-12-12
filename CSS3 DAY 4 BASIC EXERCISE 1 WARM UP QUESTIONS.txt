@@ -1,0 +1,17 @@
+Q
+You would like to use transitions and transformations in CSS3. What different naming conventions exists?
+
+A
+.BEM
+.SMACSS
+.ITCSS
+.OOCSS
+.AMCSS
+
+
+Q
+Why is it useful to use services like caniuse.com?
+
+A
+
+With this tool, the question of whether or not a particular technology on your website is compatible with specific browsers is laid out in a simple, easy-to-read chart that can help you more easily make design and development decisions.
